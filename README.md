@@ -11,6 +11,8 @@ This project is creating a simple Artificial Neural Network from scratch to clas
 
 ## How to Run
 
+## Usage Notes
+
 ## Resources
 
 
