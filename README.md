@@ -60,6 +60,3 @@ or
 - https://deepchecks.com/glossary/epoch-in-machine-learning/
 - https://nebius.com/blog/posts/epoch-in-machine-learning
 - https://www.sihttps://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-epoch-in-machine-learningmplilearn.com/tutorials/machine-learning-tutorial/what-is-epoch-in-machine-learning
-
-### Use of AI
-Used the help of chatGPT to think of test cases to use for TDD which is where I came across one-hot encoding and epoch. This helped me crate different test cases to pay attention to when developing the project and with the help of coPilot, it gave suggestions close to what I was looking for.
